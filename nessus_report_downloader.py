@@ -2,7 +2,6 @@
 
 ########################################################################################################
 # Name: Nessus Report downloader
-# Author: Nikhil Raj ( nikhilraj149@gmail.com )
 #
 # Version: 1.1
 # Last Updated: 24 Nov 2020
